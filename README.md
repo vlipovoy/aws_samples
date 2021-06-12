@@ -1,1 +1,1 @@
-A set of AWS services useful snipets
+A set of AWS services useful snippets
